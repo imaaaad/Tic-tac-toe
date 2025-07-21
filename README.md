@@ -78,8 +78,7 @@ Player O, enter your move (row col): 1 1
 ## 📌 Author
 
 - **Imad Chabi**  
-- 🇲🇦 Morocco  
-- 📘 Bachelor's in Information Systems & Network Engineering
+
 
 ---
 
